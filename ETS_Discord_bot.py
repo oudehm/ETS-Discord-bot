@@ -177,9 +177,9 @@ async def profanity_counts(ctx):
 async def resources(ctx):
     message = (
         "ETS Social Media Accounts!!:\n"
-        "- [Instagram](https://www.instagram.com/arc_ets/)\n"
-        "- [Facebook](https://www.facebook.com/ARCETS17/)\n"
-        "- [Website](https://arc.losrios.edu/trio-ets)\n"
+        "- [Instagram]()\n"
+        "- [Facebook]()\n"
+        "- [Website]()\n"
     )
     await ctx.send(message)
 
